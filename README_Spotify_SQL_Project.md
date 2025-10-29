@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Project Overview  
+## 📊 Project Overview
 This project performs a detailed analysis of the **Spotify Music Dataset** using **SQL** to uncover insights about music trends, genre popularity, and artist versatility.  
 Through analytical SQL queries, it explores how attributes like **energy**, **danceability**, and **valence** influence a song’s popularity and listener engagement.  
 
