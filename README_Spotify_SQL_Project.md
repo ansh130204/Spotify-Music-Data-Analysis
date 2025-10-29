@@ -133,23 +133,6 @@ SET musical_key = NULLIF(@csv_key, '');
 | **SpotifyFeatures.csv** | Dataset for exploration |
 | **GitHub** | Version control and sharing |
 
----
-
-## 📂 Folder Structure  
-
-```
-📁 Spotify-SQL-Project
-│
-├── 📄 README.md                → Project overview and documentation  
-├── 📊 SQL PROJECT.sql          → Contains all SQL queries used for analysis  
-├── 📂 data/
-│   └── SpotifyFeatures.csv     → Dataset used for analysis  
-├── 📂 outputs/
-│   └── insights.txt            → Summary of key findings (optional)  
-└── 📂 screenshots/             → (Optional) Visuals or query result screenshots
-```
-
-> 🗂️ *Tip: Keep your folder structure clean and descriptive for easy navigation.*
 
 ---
 
@@ -171,12 +154,3 @@ By analyzing the musical attributes of thousands of songs, it provides a deeper 
 
 ---
 
-### 📝 GitHub Project Description  
-> 🎧 SQL-based exploratory analysis of Spotify music features to uncover genre patterns, artist performance, and mood-based song characteristics using MySQL.
-
----
-
-### 🏷️ Suggested GitHub Tags  
-```
-#SQL #MySQL #DataAnalysis #Spotify #MusicAnalytics #DataExploration #ETL #AnalyticsProject #DatabaseProject #DataStorytelling
-```
